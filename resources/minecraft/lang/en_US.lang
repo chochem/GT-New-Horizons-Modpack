@@ -302,7 +302,7 @@ gtnh.quest74.desc=No matter where you got this smeltry from, you have one now. T
 
 # Quest.75 - §6§lThe Water Dilemma
 gtnh.quest75.name=§6§lThe Water Dilemma
-gtnh.quest75.desc=Finite water is a problem. But fear not, there are solutions! I shall guide you to a steady supply of water. The Railcraft water siding tanks provides enough water to last the early game.%n%nThe humidity of a biome is very important and will increase the base fill rate.%n%nIf it is raining, the tank will fill much quicker.%n%nAt least one block of the water siding tank must see sky for the maximum output.%n%nThe best part is that you don't need a pump to extract water. Tanks and pipes placed next to it will be autofilled by the water siding tank.%n
+gtnh.quest75.desc=Finite water is a problem. But fear not, there are solutions! I shall guide you to a steady supply of water. The Railcraft water siding tanks provides enough water to last the early game.%n%nThe humidity of a biome is very important and will increase the base fill rate. If it is raining, the tank will fill much quicker. One block of the water siding tank must see sky for the maximum output. The best part is that you don't need a pump to extract water. Tanks and pipes placed next to it will be autofilled by the water siding tank.%n%n§3The block that cant be covered for maximum output is a specific one. Either try it out to find out which or just give the entire multiblcok sky access.
 
 # Quest.76 - §6§lTime to Get Some Steel
 gtnh.quest76.name=§6§lTime to Get Some Steel
@@ -1232,8 +1232,8 @@ gtnh.quest306.desc=Just like plants, there are trees that will attract various f
 gtnh.quest307.name=The Power of Gods
 gtnh.quest307.desc=The pearl you've found has some interesting effects on you. Not only are the voices almost gone, somehow it has also expanded your perception. You can "feel" the magic around you. This is definitely worth some further investigation.
 
-# Quest.308 - The Final Goal
-gtnh.quest308.name=The Final Goal
+# Quest.308 - §c§l[OUTDATED]§r The Final Goal
+gtnh.quest308.name=§c§l[OUTDATED]§r The Final Goal
 gtnh.quest308.desc=Thanks to your help I have managed to create the ultimate energy source: An encased wormhole that drains energy from a synthesized pocket universe, to the point when it reaches heat death. I have no use for it, so you may have it. Thank you for making my dream come true!
 
 # Quest.309 - Shards of Opposite Worlds
@@ -1400,196 +1400,196 @@ gtnh.quest348.desc=Serves 2 purposes: Style. And... ah, yeah... Something useful
 gtnh.quest349.name=Be a Vampire; Dress Like a Fancy Person
 gtnh.quest349.desc=Sometimes it can be troublesome to get fancy clothing. However, if you prove yourself worthy, you get a set for free.
 
-# Quest.350 - A Few More Things...
-gtnh.quest350.name=A Few More Things...
-gtnh.quest350.desc=Ok, I think I have everything I need to assemble the device. Can you assist me with some additional materials? I need to update some of my machines, as these exotic components you got me damaged some of them already. Don't worry, I have a list here.%n%nSome of my circuits burned to a crisp while I was trying to measure the conductivity of these soul and life shards. I need better ones.%n%nGood lord, these mysterious crystals have eaten away my diamond grinding head! How could that happen? Can you get me a better one?%n%nDo you see that pile of Rhodium and Palladium over there? No? Neither do I. Because the machine was VAPORIZED! Good that you gave me 2 singularities, the first one... Well... Just get me a better casing, would you?%n%nIt seems, that the stabilizers need... stabilizing... But I'm out of field generators. Can you help me with this?
+# Quest.350 - Naquadria
+gtnh.quest350.name=Naquadria
+gtnh.quest350.desc=A naquadria bee.
 
-# Quest.351 - Hello There!
-gtnh.quest351.name=Hello There!
-gtnh.quest351.desc=I've observed your progress, and I have to say, I'm impressed. I might need your help soon on a big project of mine.
+# Quest.351 - Manganese
+gtnh.quest351.name=Manganese
+gtnh.quest351.desc=A manganese bee.
 
-# Quest.352 - Power, So Much Power!
-gtnh.quest352.name=Power, So Much Power!
-gtnh.quest352.desc=If only I could harness it... Well, hello there my friend. I need your help with a project of mine. I want to create an immense power source, but I have a few problems that I need to solve first. Will you help me? You'll be well rewarded.%n%n§3The quests to get items will trigger the next part once you hold the item in question.
+# Quest.352 - Tungsten
+gtnh.quest352.name=Tungsten
+gtnh.quest352.desc=This is a tungsten bee.
 
-# Quest.353 - A Problem that Matters
-gtnh.quest353.name=A Problem that Matters
-gtnh.quest353.desc=I need to open a wormhole. But for that, I need an immense gravitational field. One like those created upon the death of a massive star, a black hole. But I can't really "kill" a sun for this. I need to compress matter somehow... But... How? I think I may need a specialized machine for this, one that does not use explosions, as that won't get dense enough.
+# Quest.353 - Iridium
+gtnh.quest353.name=Iridium
+gtnh.quest353.desc=An iridium bee.
 
-# Quest.354 - Now that Matters!
-gtnh.quest354.name=Now that Matters!
-gtnh.quest354.desc=Of course! The matter condenser! How come I didn't think of that?
+# Quest.354 - Enderium
+gtnh.quest354.name=Enderium
+gtnh.quest354.desc=An enderium bee. In particuarly interesting for the blinding speed trait!
 
-# Quest.355 - I need a stabilizer
-gtnh.quest355.name=I need a stabilizer
-gtnh.quest355.desc=Opening the wormhole is one thing, but I need to stabilize it, so it doesn't harm anything. I guess I need something made of crystal. Why? Because I like it fancy. Find me a crystal-based, transparent material with immense power, would you?
+# Quest.355 - Neutronium
+gtnh.quest355.name=Neutronium
+gtnh.quest355.desc=You might notice that there are few bees that dont have a quest on the way to the Neutronium Bee. But you should be able to figure it out.%n%nThe Neutronium Combs can not just lighten the burden on your smelting setup, you can also use them to make the Advanced Mutratron.
 
-# Quest.356 - Shiny!
-gtnh.quest356.name=Shiny!
+# Quest.356 - §c§l[OUTDATED]§r Shiny!
+gtnh.quest356.name=§c§l[OUTDATED]§r Shiny!
 gtnh.quest356.desc=What in the world is this? This is amazing! I need more of these! They will be an amazing containment material for the wormhole!
 
-# Quest.357 - I'm Hungry
-gtnh.quest357.name=I'm Hungry
+# Quest.357 - §c§l[OUTDATED]§r I'm Hungry
+gtnh.quest357.name=§c§l[OUTDATED]§r I'm Hungry
 gtnh.quest357.desc=What... I work a lot! So get me some food please.
 
-# Quest.358 - It Needs a Power Plug...
-gtnh.quest358.name=It Needs a Power Plug...
-gtnh.quest358.desc=Given the fact that I will be able to craft this device, it needs some kind of "plug" to get the power out. I need something to conduct immense amounts of power. I thought about superconductors, but they don't fit with the crystal casing material I have in mind. I need 2 different crystals, one for positive and one for negative charge.
+# Quest.358 - Naquadah
+gtnh.quest358.name=Naquadah
+gtnh.quest358.desc=A naquadah bee. If you have sufficient technology you can make a Mutatron now!
 
-# Quest.359 - Red and Blue
-gtnh.quest359.name=Red and Blue
+# Quest.359 - §c§l[OUTDATED]§r Red and Blue
+gtnh.quest359.name=§c§l[OUTDATED]§r Red and Blue
 gtnh.quest359.desc=Really? A red and blue crystal? How awesome is that! I think I will need 8 of each color, just to be sure.
 
-# Quest.360 - A Casing
-gtnh.quest360.name=A Casing
+# Quest.360 - §c§l[OUTDATED]§r A Casing
+gtnh.quest360.name=§c§l[OUTDATED]§r A Casing
 gtnh.quest360.desc=I need something for the outer shell. Again, a crystal-based material would be best, because I like it shiny. I tested all crystals I know of and none of them met the requirements. I heard you have access to outer space? Can you try to find a suitable material while you're out there?
 
-# Quest.361 - Fancy!
-gtnh.quest361.name=Fancy!
+# Quest.361 - §c§l[OUTDATED]§r Fancy!
+gtnh.quest361.name=§c§l[OUTDATED]§r Fancy!
 gtnh.quest361.desc=Yes. Yes! That's it! Bring me more of this stuff! I probably need a lot of it...
 
-# Quest.362 - Beyond imagination
-gtnh.quest362.name=Beyond imagination
+# Quest.362 - §c§l[OUTDATED]§r Beyond imagination
+gtnh.quest362.name=§c§l[OUTDATED]§r Beyond imagination
 gtnh.quest362.desc=What is this? Draconium dust? I wonder if I could use this for something...
 
-# Quest.363 - The power of dragons
-gtnh.quest363.name=The power of dragons
+# Quest.363 - §c§l[OUTDATED]§r The power of dragons
+gtnh.quest363.name=§c§l[OUTDATED]§r The power of dragons
 gtnh.quest363.desc=Hey my friend. I got your sample, and I have to say, I'm amazed. This material has a lot of potential, but it's useless at the moment. I have an idea how to turn this into something useful, but I need you to help me with a few problems first.%n%nI need a good handful of that stuff for my research. Please get me some.
 
-# Quest.364 - A hull
-gtnh.quest364.name=A hull
+# Quest.364 - §c§l[OUTDATED]§r A hull
+gtnh.quest364.name=§c§l[OUTDATED]§r A hull
 gtnh.quest364.desc=First things first, we need a hull. I played around with your sample, and it seems that it reacts with every known material. It even attacks Iridium! It's completely harmless if it's in a box that is open, but as soon as I try to enclose it in something, poof. It breaks free. We need something stronger than iridium my friend.%n%nMaybe something from the core of a dead star....White dwarf won't be dense enough...Perhaps a Neutron Star? Hmmm...Yes, fetch me some ore from the core of a Neutron Star and we'll try some next steps.
 
-# Quest.365 - Dense, denser, Neutronium
-gtnh.quest365.name=Dense, denser, Neutronium
+# Quest.365 - §c§l[OUTDATED]§r Dense, denser, Neutronium
+gtnh.quest365.name=§c§l[OUTDATED]§r Dense, denser, Neutronium
 gtnh.quest365.desc=Now look at this. This stuff is incredibly dense. Maybe this material will be sufficiently strong?%n%nThis looks promising. Send me some samples, and I will try my luck.
 
-# Quest.366 - Not a planet
-gtnh.quest366.name=Not a planet
+# Quest.366 - §c§l[OUTDATED]§r Not a planet
+gtnh.quest366.name=§c§l[OUTDATED]§r Not a planet
 gtnh.quest366.desc=This place is interesting. Maybe I should try to find new materials here...%n%nWhat's that? Scanning shows some kind of new radioactive ore. Go and check it out, maybe hold some - with proper protection of course.
 
-# Quest.367 - Successful.. Or not?
-gtnh.quest367.name=Successful.. Or not?
+# Quest.367 - §c§l[OUTDATED]§r Successful.. Or not?
+gtnh.quest367.name=§c§l[OUTDATED]§r Successful.. Or not?
 gtnh.quest367.desc=Heh, neutronium. I didn't even know such a thing really exists. Unfortunately, the draconium dust was enclosed for... 5 seconds? But, it was a small success. %n%nOk let's travel to some planets and moons and look for the new material. I think we have to fly very far away for it.%n%nSomeplace dark, on a planet near the Kuiper Belt.
 
-# Quest.368 - Black Plutonium
-gtnh.quest368.name=Black Plutonium
+# Quest.368 - §c§l[OUTDATED]§r Black Plutonium
+gtnh.quest368.name=§c§l[OUTDATED]§r Black Plutonium
 gtnh.quest368.desc=This doesn't seem to be dense, but it's a material you haven't seen before. Maybe this could be the solution?%n%nBlack what? Huh, interesting. Send me some samples, I want to analyse it.
 
-# Quest.369 - We have a hull
-gtnh.quest369.name=We have a hull
+# Quest.369 - §c§l[OUTDATED]§r We have a hull
+gtnh.quest369.name=§c§l[OUTDATED]§r We have a hull
 gtnh.quest369.desc=Surprisingly, this material is able to contain the draconium dust. It could be the radiation. Good job my friend!
 
-# Quest.370 - Draconium Dust core
-gtnh.quest370.name=Draconium Dust core
+# Quest.370 - §c§l[OUTDATED]§r Draconium Dust core
+gtnh.quest370.name=§c§l[OUTDATED]§r Draconium Dust core
 gtnh.quest370.desc=I've created a first sample of what I shall call "Draconium Dust core". Not quite the result I expected to be honest, but see for yourself.
 
-# Quest.371 - We need to control it
-gtnh.quest371.name=We need to control it
+# Quest.371 - §c§l[OUTDATED]§r We need to control it
+gtnh.quest371.name=§c§l[OUTDATED]§r We need to control it
 gtnh.quest371.desc=The problem is that the immense power of this dust is released all at once. We need something to control the vast amount of energies. I noticed that the dust starts to glow when it gets near an aura node. Maybe Thaumaturgy has the solution?
 
-# Quest.372 - The power of primals
-gtnh.quest372.name=The power of primals
+# Quest.372 - §c§l[OUTDATED]§r The power of primals
+gtnh.quest372.name=§c§l[OUTDATED]§r The power of primals
 gtnh.quest372.desc=What else could control energies better than a focus of crystallized primal energy? With this little item, it should be possible to control the energies released from the dust.
 
-# Quest.373 - Unforeseen consequences
-gtnh.quest373.name=Unforeseen consequences
+# Quest.373 - §c§l[OUTDATED]§r Unforeseen consequences
+gtnh.quest373.name=§c§l[OUTDATED]§r Unforeseen consequences
 gtnh.quest373.desc=You haven't heard anything in a while from the technician. You have a feeling that something might have gone terrible wrong, so you went to his place to investigate. What you found was... nothing. A void. It seems that he tried to combine the pearl with the dust. What did he say? The dust reacts to aura nodes? Of course it does. It amplifies the energies by a thousand times. And giving it raw primal energy, good lord, what has he done. May he rest in peace...
 
-# Quest.374 - I'm on my own now
-gtnh.quest374.name=I'm on my own now
+# Quest.374 - §c§l[OUTDATED]§r I'm on my own now
+gtnh.quest374.name=§c§l[OUTDATED]§r I'm on my own now
 gtnh.quest374.desc=I need to continue my research. I still think that this primordial pearl is the key to control the dust, but I'm not sure how. Maybe the pearl is just too strong? I should try to use something that's similar, but less powerful. It reacts to vis, so maybe.. I should try to make a wand focus with that pearl. That way, I could channel vis into the dust without actually combining both.
 
-# Quest.375 - An interesting material
-gtnh.quest375.name=An interesting material
+# Quest.375 - §c§l[OUTDATED]§r An interesting material
+gtnh.quest375.name=§c§l[OUTDATED]§r An interesting material
 gtnh.quest375.desc=This metal has quite interesting properties. It seems that it has absorbed some of the energy that exists in the End. While ender pearls are quite fragile, this metal is a lot more durable. However, the absorbed energy is not enough to teleport things around. But you might find a solution for this.
 
-# Quest.376 - Gross, what is that...
-gtnh.quest376.name=Gross, what is that...
+# Quest.376 - §c§l[OUTDATED]§r Gross, what is that...
+gtnh.quest376.name=§c§l[OUTDATED]§r Gross, what is that...
 gtnh.quest376.desc=It's purple, and it smells like rotten eggs. But while staring at this unpleasant fluid, you had an idea. You can't reach the dust directly, but can you actually teleport something in and out the field? Might be worth a try.
 
-# Quest.377 - An appropriate focus
-gtnh.quest377.name=An appropriate focus
+# Quest.377 - §c§l[OUTDATED]§r An appropriate focus
+gtnh.quest377.name=§c§l[OUTDATED]§r An appropriate focus
 gtnh.quest377.desc=You've tried a lot, and nothing was quite enough to activate the dust. Until now. You finally found a focus that is able to transmit enough power to cause a heavy reaction with the dust, but not enough to cause problems.
 
-# Quest.378 - Activated draconium dust
-gtnh.quest378.name=Activated draconium dust
+# Quest.378 - §c§l[OUTDATED]§r Activated draconium dust
+gtnh.quest378.name=§c§l[OUTDATED]§r Activated draconium dust
 gtnh.quest378.desc=At least for a short period of time. The wand focus is powerful enough to activate the dust, but it will convert back to regular dust as soon as I stop feeding it with vis. If I only could contain it, surround it with a forcefield...
 
-# Quest.379 - The strongest forcefield
-gtnh.quest379.name=The strongest forcefield
+# Quest.379 - §c§l[OUTDATED]§r The strongest forcefield
+gtnh.quest379.name=§c§l[OUTDATED]§r The strongest forcefield
 gtnh.quest379.desc=In order to create a forcefield, I need to build myself a containment device. I will use only the best emitters I can afford. I will take no risks here.
 
-# Quest.380 - Not what I expected...
-gtnh.quest380.name=Not what I expected...
+# Quest.380 - §c§l[OUTDATED]§r Not what I expected...
+gtnh.quest380.name=§c§l[OUTDATED]§r Not what I expected...
 gtnh.quest380.desc=The outcome was... interesting. It did not explode, instead, the activated draconium dust generated a counter-field to mine! Unfortunately, the emitters could not stand the reverse energies, and melted. I was able to shut it off quick enough to save the machine casing (At least what's left from it...) And a couple of field generators.
 
-# Quest.381 - Forcefield, second try
-gtnh.quest381.name=Forcefield, second try
+# Quest.381 - §c§l[OUTDATED]§r Forcefield, second try
+gtnh.quest381.name=§c§l[OUTDATED]§r Forcefield, second try
 gtnh.quest381.desc=I came to the following conclusion: Draconium dust seems to react nicely with all kinds of magic energy, and seems to repel technology. So I need to find a way to create a forcefield with magic alone. There must be a way. This should be pretty similar to controlling dangerous nodes...
 
-# Quest.382 - A magic force field
-gtnh.quest382.name=A magic force field
+# Quest.382 - §c§l[OUTDATED]§r A magic force field
+gtnh.quest382.name=§c§l[OUTDATED]§r A magic force field
 gtnh.quest382.desc=While node stabilizers are too weak, you found a way to generate a strong containment field, generated by magic itself. You tried to use warded glass, but even the "frozen in spacetime" material could not resist the power of activated draconium dust. You decided to build another device, this time with your newest invention.%n%nThe vortex attenuator is powerful enough to negate even hungry nodes, and it also will be able to contain activated draconium dust.%n%nJust to be sure, I will add some amplifiers to it.
 
-# Quest.383 - What the...?
-gtnh.quest383.name=What the...?
+# Quest.383 - §c§l[OUTDATED]§r What the...?
+gtnh.quest383.name=§c§l[OUTDATED]§r What the...?
 gtnh.quest383.desc=The device works! It is able to fully contain and separate the draconium dust from everything around it! Unfortunately... It also prevents the vis from passing the barrier, which results in regular draconium dust... In a forcefield...
 
-# Quest.384 - Looking for alternatives
-gtnh.quest384.name=Looking for alternatives
+# Quest.384 - §c§l[OUTDATED]§r Looking for alternatives
+gtnh.quest384.name=§c§l[OUTDATED]§r Looking for alternatives
 gtnh.quest384.desc=It is frustrating. Either you are able to contain the dust but can't activate it, or, you activate it and it causes serious damage. Maybe you need to find answers somewhere else.%n%nDraconic... Like... Dragon?
 
-# Quest.385 - Draconic... Like... Dragon?
-gtnh.quest385.name=Draconic... Like... Dragon?
+# Quest.385 - §c§l[OUTDATED]§r Draconic... Like... Dragon?
+gtnh.quest385.name=§c§l[OUTDATED]§r Draconic... Like... Dragon?
 gtnh.quest385.desc=Maybe you where looking for the right things in the wrong place. As this dust obviously comes from dragons, the best thing to do now is to find answers in the dimension of dragons: The End.
 
-# Quest.386 - Weird creatures
-gtnh.quest386.name=Weird creatures
+# Quest.386 - §c§l[OUTDATED]§r Weird creatures
+gtnh.quest386.name=§c§l[OUTDATED]§r Weird creatures
 gtnh.quest386.desc=These ghosts are weird beings. But, I found this ectoplasm, which, by itself, seems to be pretty useless.
 
-# Quest.387 - Activated teleport power
-gtnh.quest387.name=Activated teleport power
+# Quest.387 - §c§l[OUTDATED]§r Activated teleport power
+gtnh.quest387.name=§c§l[OUTDATED]§r Activated teleport power
 gtnh.quest387.desc=By a random guess of yours, you combined molten ender pearls and a few more of these shards with an empty gem, and it turned blue. It is pulsating with power. You tried to use it on your containment device, and it seems to be able to bypass the force field, while keeping it intact that the same time. Sadly, it doesn't have enough power to let vis pass through. Maybe you can even further increase the gems power?
 
-# Quest.388 - Arcane shards
-gtnh.quest388.name=Arcane shards
-gtnh.quest388.desc=While the normal world is based on vis and primal energy, the End seems to be quite different. This arcane shard is the crystallized form of this energy, just like the primal shards that you used so many times in the past. By pure randomness, you discovered that it reacts with the metal you've found.
+# Quest.388 - Draconic Evolution
+gtnh.quest388.name=Draconic Evolution
+gtnh.quest388.desc=You have tinkered long and hard to try to combine magic and technology. It looks like you finally found a way! With this new machine you can distill the power of a dragon into a small core.
 
-# Quest.389 - Draconic evolution
-gtnh.quest389.name=Draconic evolution
+# Quest.389 - §c§l[OUTDATED]§r Draconic evolution
+gtnh.quest389.name=§c§l[OUTDATED]§r Draconic evolution
 gtnh.quest389.desc=I found a way to combine technology and magic into something fantastic. A shiny blue emblem that emits immense amount of energy. I've decided to call it the draconic core. Make one for yourself!
 
-# Quest.390 - Ichorium
-gtnh.quest390.name=Ichorium
+# Quest.390 - §c§l[OUTDATED]§r Ichorium
+gtnh.quest390.name=§c§l[OUTDATED]§r Ichorium
 gtnh.quest390.desc=This new metal is quite expensive, and has an awesome hardness and is very resillient, to a point where mundane materials could never get.%nI think I can finally assemble the final frame.
 
-# Quest.391 - Automated evolution
-gtnh.quest391.name=Automated evolution
+# Quest.391 - §c§l[OUTDATED]§r Automated evolution
+gtnh.quest391.name=§c§l[OUTDATED]§r Automated evolution
 gtnh.quest391.desc=The machine is working pretty well, but it's tedious to fill in the reagents manually. But you have an idea, you could use a few basic components to fully automate the process.%n%nYou can use robot arms and conveyor belts to automate the input and output.%n%nObviously, you need to power the machines. A solar panel will do just fine.%n%nIn order to automate the catalyst, you need a few things. One golem will gather basic materials, while the second one will hunt creepers and ghasts for the more valuable ingredients.%n%nYou found a way to re-use the singularity, so you only need to get some sand. Luckily, the golem that works on the catalyst will be able to get glass too. He just needs a little additional motivation.%n%nYour golems need light, obviously. Also, it would be nice if there are some signal lamps that indicate the status of the process. Would it not?
 
-# Quest.392 - Activated teleport gem
-gtnh.quest392.name=Activated teleport gem
+# Quest.392 - §c§l[OUTDATED]§r Activated teleport gem
+gtnh.quest392.name=§c§l[OUTDATED]§r Activated teleport gem
 gtnh.quest392.desc=You are sure that you've just discovered the solution for your containment problem. This gem happily transmits vis on request, while keeping the containment field intact. What a great day!
 
-# Quest.393 - You did it! But...
-gtnh.quest393.name=You did it! But...
+# Quest.393 - §c§l[OUTDATED]§r You did it! But...
+gtnh.quest393.name=§c§l[OUTDATED]§r You did it! But...
 gtnh.quest393.desc=Now that you are able to contain the activated draconium dust for an infinite amount of time, you where able to assure the energy it releases. The readings are incredible. You have never seen such a power before. The only problem is, the machinery required to keep the dust in this state is too large to use it for crafting.%n%nYou noticed something that might help: The dust reacts to vis, but it needs a lot of it, therefore you require the animation focus. If you could find a catalyst, that you can mix the dust with, you could make the dust react with the vis from its surroundings instead of a direct beam.
 
-# Quest.394 - A catalyst
-gtnh.quest394.name=A catalyst
+# Quest.394 - §c§l[OUTDATED]§r A catalyst
+gtnh.quest394.name=§c§l[OUTDATED]§r A catalyst
 gtnh.quest394.desc=That's it. This catalyst contains all primal energies in a quite different form, a lot weaker than any node. However, in combination with the draconium dust, it amplifies the vis that's around it, which leads to a permanent activation. It still needs to be contained, but you don't need the direct vis beam any more.%n%nThe result is a compound, which still emits massive amounts of power, but is less destructive. It still attacks the neutronium, but I think if I can find a capsule-like container that has special properties, I could create a portable version of it.
 
-# Quest.395 - Bulma would be proud
-gtnh.quest395.name=Bulma would be proud
-gtnh.quest395.desc=By combining a dimensional singularity with some glass cylinders and molten gold, I was able to create a miniature containment field within a very small area. Interesting enough, the new draconium blend amplifies the containment field from the inside. Once I fill the blend in the capsule, it immediately "seals" itself. I won't be able to remove or replace the dust any more, but I don't think I have to...%n%n%nThe perfect vessel for massive power!
+# Quest.395 - Dragon Blood
+gtnh.quest395.name=Dragon Blood
+gtnh.quest395.desc=The Dragon Blood Bee is a lot of effort to obtain but quite handy for hypogen in late game.
 
-# Quest.396 - The final steps
-gtnh.quest396.name=The final steps
+# Quest.396 - §c§l[OUTDATED]§r The final steps
+gtnh.quest396.name=§c§l[OUTDATED]§r The final steps
 gtnh.quest396.desc=Now that I've found a way to stabilize the draconium dust and keep it safe in a small capsule, I just need to make a small container for it, so I can drain the energy on demand. Neutronium will serve very well, but I need a magic conductor. Thaumium works, but gets way too hot and void metal has a bad conductivity. I need to find a high tier magic metal that is extremly strong and resillient, to a point where mundane materials could never get.
 
-# Quest.397 - Endless evolution
-gtnh.quest397.name=Endless evolution
+# Quest.397 - §c§l[OUTDATED]§r Endless evolution
+gtnh.quest397.name=§c§l[OUTDATED]§r Endless evolution
 gtnh.quest397.desc=Using your machine, you can now craft infinite amounts of these cores. And since it would be gruesome to let your golem work just for one single core, you decided to only request cores in a large batch of 16. How nice of you.
 
 # Quest.398 - Kill Baba Yaga
@@ -1808,72 +1808,72 @@ gtnh.quest450.desc=Since you can't make a vanilla bow before LV and Tinkers weap
 gtnh.quest451.name=Trigger LoC
 gtnh.quest451.desc=Triggered by having a "Lamp of Cinders" in your inventory.
 
-# Quest.452 - Trigger Singularity
-gtnh.quest452.name=Trigger Singularity
+# Quest.452 - §c§l[OUTDATED]§r Trigger Singularity
+gtnh.quest452.name=§c§l[OUTDATED]§r Trigger Singularity
 gtnh.quest452.desc=Triggered by making a singularity.
 
-# Quest.453 - Trigger Shard of Creation
-gtnh.quest453.name=Trigger Shard of Creation
+# Quest.453 - §c§l[OUTDATED]§r Trigger Shard of Creation
+gtnh.quest453.name=§c§l[OUTDATED]§r Trigger Shard of Creation
 gtnh.quest453.desc=Triggered by making a "Shard of Creation".
 
-# Quest.454 - Trigger Life and Soul Shard
-gtnh.quest454.name=Trigger Life and Soul Shard
+# Quest.454 - §c§l[OUTDATED]§r Trigger Life and Soul Shard
+gtnh.quest454.name=§c§l[OUTDATED]§r Trigger Life and Soul Shard
 gtnh.quest454.desc=Triggered by making a "Life Shard" and a "Soul Shard".
 
-# Quest.455 - Trigger Unknown Crystal
-gtnh.quest455.name=Trigger Unknown Crystal
+# Quest.455 - §c§l[OUTDATED]§r Trigger Unknown Crystal
+gtnh.quest455.name=§c§l[OUTDATED]§r Trigger Unknown Crystal
 gtnh.quest455.desc=Triggered by finding a "Mysterious Crystal".
 
 # Quest.456 - Trigger Life
 gtnh.quest456.name=Trigger Life
 gtnh.quest456.desc=Triggers the Life Canister Quest after a Wither death.
 
-# Quest.457 - Trigger Pluto
-gtnh.quest457.name=Trigger Pluto
+# Quest.457 - §c§l[OUTDATED]§r Trigger Pluto
+gtnh.quest457.name=§c§l[OUTDATED]§r Trigger Pluto
 gtnh.quest457.desc=Triggers if you have been on Pluto.
 
-# Quest.458 - Trigger Primordial Pearl
-gtnh.quest458.name=Trigger Primordial Pearl
+# Quest.458 - §c§l[OUTDATED]§r Trigger Primordial Pearl
+gtnh.quest458.name=§c§l[OUTDATED]§r Trigger Primordial Pearl
 gtnh.quest458.desc=Triggered by the Primordial Pearl.
 
-# Quest.459 - Trigger Wand Focus Animation
-gtnh.quest459.name=Trigger Wand Focus Animation
+# Quest.459 - §c§l[OUTDATED]§r Trigger Wand Focus Animation
+gtnh.quest459.name=§c§l[OUTDATED]§r Trigger Wand Focus Animation
 gtnh.quest459.desc=Triggers if you craft the Primordial Focus.
 
-# Quest.460 - Trigger Vortex Attenuator
-gtnh.quest460.name=Trigger Vortex Attenuator
+# Quest.460 - §c§l[OUTDATED]§r Trigger Vortex Attenuator
+gtnh.quest460.name=§c§l[OUTDATED]§r Trigger Vortex Attenuator
 gtnh.quest460.desc=Triggers after you craft a Vortex.
 
-# Quest.461 - Trigger The End Dim
-gtnh.quest461.name=Trigger The End Dim
+# Quest.461 - §c§l[OUTDATED]§r Trigger The End Dim
+gtnh.quest461.name=§c§l[OUTDATED]§r Trigger The End Dim
 gtnh.quest461.desc=Triggers if you arrived at The End.
 
-# Quest.462 - Trigger Amorphic Catalyst
-gtnh.quest462.name=Trigger Amorphic Catalyst
+# Quest.462 - §c§l[OUTDATED]§r Trigger Amorphic Catalyst
+gtnh.quest462.name=§c§l[OUTDATED]§r Trigger Amorphic Catalyst
 gtnh.quest462.desc=Triggers if you craft the Catalyst.
 
 # Quest.463 - Runes Tier 2
 gtnh.quest463.name=Runes Tier 2
 gtnh.quest463.desc=The speed rune is the only tier 2 rune. The speed rune does what its name implies, provides an additive 20% increase to the processing speed of the blood altar.%n%nHOWEVER, this makes it much more difficult to actually craft anything, so don't use them unless you're sure you can craft the item.
 
-# Quest.464 - The technician part 2
-gtnh.quest464.name=The technician part 2
+# Quest.464 - §c§l[OUTDATED]§r The technician part 2
+gtnh.quest464.name=§c§l[OUTDATED]§r The technician part 2
 gtnh.quest464.desc=I will ask the technician about this stuff, but I need to reach a good reputation first. He is a busy man, and I don't want to be denied.
 
-# Quest.465 - Trigger Neutronium
-gtnh.quest465.name=Trigger Neutronium
+# Quest.465 - §c§l[OUTDATED]§r Trigger Neutronium
+gtnh.quest465.name=§c§l[OUTDATED]§r Trigger Neutronium
 gtnh.quest465.desc=Triggers if you get Neutronium Ore/ingot/dust.
 
-# Quest.466 - Trigger Black Plutonium
-gtnh.quest466.name=Trigger Black Plutonium
+# Quest.466 - §c§l[OUTDATED]§r Trigger Black Plutonium
+gtnh.quest466.name=§c§l[OUTDATED]§r Trigger Black Plutonium
 gtnh.quest466.desc=Triggers if you find Black Plutonium ore/ingot/dust.
 
-# Quest.467 - Trigger Empty Void Capsule
-gtnh.quest467.name=Trigger Empty Void Capsule
+# Quest.467 - §c§l[OUTDATED]§r Trigger Empty Void Capsule
+gtnh.quest467.name=§c§l[OUTDATED]§r Trigger Empty Void Capsule
 gtnh.quest467.desc=Triggers if you have a Void Capsule.
 
-# Quest.468 - Trigger Ichorium Ingot
-gtnh.quest468.name=Trigger Ichorium Ingot
+# Quest.468 - §c§l[OUTDATED]§r Trigger Ichorium Ingot
+gtnh.quest468.name=§c§l[OUTDATED]§r Trigger Ichorium Ingot
 gtnh.quest468.desc=Triggers if you get Ichorium Ingot.
 
 # Quest.469 - §1§lCollecting Some Berries
@@ -4534,7 +4534,7 @@ gtnh.quest1132.desc=Your sword is too dull? Get some nether quartz to sharpen it
 
 # Quest.1133 - §3§lSubmission Station
 gtnh.quest1133.name=§3§lSubmission Station
-gtnh.quest1133.desc=Although many of the questing tasks can be submitted directly through your inventory (including liquids) sometimes you need a more automated solution. This is where the Object Submission Station (OSS) comes in handy. %n%nTasks supporting the OSS can be selected through the built in interface to enable its use. Once setup, liquids and items can be either piped in or dropped into the interface's input slot. It will not void items or liquids if no task is selected or if it has already been completed, however, making it relatively safe from accidental item/fluid deletion. Multiple OSS are also capable of taking on separate sub-tasks under the same quest simultaneously!%n%n§3PS: Only the last LESU quest needs this.
+gtnh.quest1133.desc=Although many of the questing tasks can be submitted directly through your inventory (including liquids) sometimes you need a more automated solution. This is where the Object Submission Station (OSS) comes in handy. %n%nTasks supporting the OSS can be selected through the built in interface to enable its use. Once setup, liquids and items can be either piped in or dropped into the interface's input slot. It will not void items or liquids if no task is selected or if it has already been completed, however, making it relatively safe from accidental item/fluid deletion. Multiple OSS are also capable of taking on separate sub-tasks under the same quest simultaneously!%n%n§3PS: No quests actually require this at the moment, so feel free to ignore it.
 
 # Quest.1134 - §5§lLV Advanced Steam Boiler
 gtnh.quest1134.name=§5§lLV Advanced Steam Boiler
@@ -5134,11 +5134,11 @@ gtnh.quest1282.desc=Stockpiling sugar might be a good idea if you have a sweet t
 
 # Quest.1283 - Honey for sugar.
 gtnh.quest1283.name=Honey for sugar.
-gtnh.quest1283.desc=Since honey contains a lot of sugar, it might be a good idea to get some honey.
+gtnh.quest1283.desc=Since honey contains a lot of sugar, it might be a good idea to get some honey.%n%n§3§3Just having the fluid in cells or buckets in your inventory lets the quest detect and consume it.
 
 # Quest.1284 - Wasps honey
 gtnh.quest1284.name=Wasps honey
-gtnh.quest1284.desc=Giant wasps can be found in the Nether. Quick! Sneak into their hive and steal some honey!
+gtnh.quest1284.desc=Giant wasps can be found in the Nether. Quick! Sneak into their hive and steal some honey!%n%n§3§3Just having the fluid in cells or buckets in your inventory lets the quest detect it.
 
 # Quest.1285 - §5§lDiamond Spikes
 gtnh.quest1285.name=§5§lDiamond Spikes
@@ -7152,8 +7152,8 @@ gtnh.quest1786.desc=Your shoes can be equipped with a few modifications like wat
 gtnh.quest1787.name=§6§lData Access Hatches
 gtnh.quest1787.desc=So, if you want to do more than one recipe in your Assline, you want a Data Access Hatch. There are 3+1 versions.%n%nData Access Hatch: It holds 4 data sticks, so 4 recipes.%n%nAdvanced Data Access Hatch: It holds 16 data sticks. Ironically, you can make this right away.%n%nAutomatable Data Access Hatch: It's UV, but it allows I/O of the sticks. Skip it.%n%nThe Data Bank Multi: Can be connected to multiple Asslines, and can contain more than 1 DAH. This is the best way, when you can do it. Look in ZPM for the quest.%n%n§3You only need to make one.
 
-# Quest.1788 - Trigger:Unlocking bee breeding lines (unlock)
-gtnh.quest1788.name=Trigger:Unlocking bee breeding lines (unlock)
+# Quest.1788 - §c§l[OUTDATED]§r Trigger:Unlocking bee breeding lines (unlock)
+gtnh.quest1788.name=§c§l[OUTDATED]§r Trigger:Unlocking bee breeding lines (unlock)
 gtnh.quest1788.desc=Finish cultivated bees quest
 
 # Quest.1789 - §3§lFactory Iron Door
@@ -7186,7 +7186,7 @@ gtnh.quest1795.desc=You can even create metals not found on Earth using crops! Y
 
 # Quest.1796 - §5§lBetter Gallium and Arsenic Sources
 gtnh.quest1796.name=§5§lBetter Gallium and Arsenic Sources
-gtnh.quest1796.desc=There are a couple of ways to increase your Gallium.%n%n1. Use IC2 crops under the Farming tab to get Galvania leaves, to 4x your zinc and sphalerite crushed ores to purified ores.%n%n2. Use the HV macerator on the centrifuged ores to get a 10 percent chance of a whole Gallium dust.%n%n3. Use plentiful Bauxite ores from the Moon.%n%n4. Kill Redcaps/Redcap Sappers in Twilight Forest. Also Kobolds drop Arsenic.%n%n5. Duplicate nugget with Thaumcraft. This requires §lTaboo§r researches, so you might not want to do this.%n%nFor Arsenic, Cobaltite ore in the Twilight Forest is a great source. It can be multiplied 4x by the IC2 crop Nickelback.
+gtnh.quest1796.desc=There are a couple of ways to increase your Gallium.%n%n1. Breed Zinc Bees and react the Gallium Combs with Hydrochloric Acid. The bee is not too deep in the breeding progression and the processing only requires LV.%n%n2. Use IC2 crops under the Farming tab to get Galvania leaves, to 4x your zinc and sphalerite crushed ores to purified ores.%n%n3. Use the HV macerator on the centrifuged ores to get a 10 percent chance of a whole Gallium dust.%n%n4. Use plentiful Bauxite ores from the Moon.%n%n5. Kill Redcaps/Redcap Sappers in Twilight Forest. Also Kobolds drop Arsenic.%n%n6. Duplicate nugget with Thaumcraft. This requires §lTaboo§r researches, so you might not want to do this.%n%nFor Arsenic, Cobaltite ore in the Twilight Forest is a great source. It can be multiplied 4x by the IC2 crop Nickelback.
 
 # Quest.1797 - New Threads
 gtnh.quest1797.name=New Threads
@@ -7318,11 +7318,11 @@ gtnh.quest1828.desc=Close to 8 Stacks of LESU Casings, this upgrade enables EV V
 
 # Quest.1829 - §6§lL.E.S.U. Upgrade - IV Tier
 gtnh.quest1829.name=§6§lL.E.S.U. Upgrade - IV Tier
-gtnh.quest1829.desc=24 Stacks of LESU Casings. These do fit in your Inventory, but crafting them is another problem.
+gtnh.quest1829.desc=24 Stacks of LESU Casings. These do fit in your Inventory, but crafting them is another problem.%n%n§3If you dont want to clear out your inventory, just check the box when you have enough.
 
 # Quest.1830 - §5§6§lL.E.S.U. Upgrade - LuV Tier
 gtnh.quest1830.name=§5§6§lL.E.S.U. Upgrade - LuV Tier
-gtnh.quest1830.desc=To reach the highest Voltage Tier the LESU can offer, you need to add an additional amount of LESU Casings. 8193 Casings in total (all upgrades below and these additional) enable the LuV Input Voltage. To submit these you'll need to use the Submit Station from the Steam Tab, since your inventory isnt big enough to hold 96 Stacks.
+gtnh.quest1830.desc=To reach the highest Voltage Tier the LESU can offer, you need to add an additional amount of LESU Casings. 8193 Casings in total (all upgrades below and these additional) enable the LuV Input Voltage. To submit these you'll need to use the Submit Station from the Steam Tab, since your inventory isnt big enough to hold 96 Stacks.%n%n§3I mean you could do that, but maybe just check the box once your autocrafting is done.
 
 # Quest.1831 - §2§lCircle Shapes Give Me Comfort
 gtnh.quest1831.name=§2§lCircle Shapes Give Me Comfort
@@ -7502,7 +7502,7 @@ gtnh.quest1874.desc=PVC Sheets make SMDs (make foils), plastic circuit boards, a
 
 # Quest.1875 - A Soul-ution For Warp
 gtnh.quest1875.name=A Soul-ution For Warp
-gtnh.quest1875.desc=The Soul Brazier from Thaumic Exploration will store your permanent warp. %n%nAs long as it has Ignis centi-vis and Mortuus essentia fed from underneath it will stay active, even while you are in other dimensions. Turning it off or running out of power will dump all that warp back into your body, so watch out.%n%nContaining warp does have a bit of a downside - taint. You'll need to figure out a way to stop that.%n%n§3The recipe is nerfed cuz it doesn't work right, and gets rid of warp permanently.
+gtnh.quest1875.desc=The Soul Brazier from Thaumic Exploration will store your permanent warp. %n%nAs long as it has Ignis centi-vis and Mortuus essentia fed from underneath it will stay active, even while you are in other dimensions. Turning it off or running out of power will dump all that warp back into your body, so watch out.%n%nContaining warp does have a bit of a downside - taint. You'll need to figure out a way to stop that.
 
 # Quest.1876 - §a§9§lAmplifying Your UUM Production
 gtnh.quest1876.name=§a§9§lAmplifying Your UUM Production
@@ -8358,7 +8358,7 @@ gtnh.quest2088.desc=This is a crafting machine that heats items and liquids to a
 
 # Quest.2089 - Bees By the Millions
 gtnh.quest2089.name=Bees By the Millions
-gtnh.quest2089.desc=If you need endgame high speed production, industrial apiaries are the way to go. Industrial Apiaries take upgrade frames that never break. Production frames can be stacked up to 8 high. It also has many options for emulation, more pollen retrieval, and others.%n%nThe Industrial Apiary is now a GT machine. It takes up to UV voltage and up to 4 amps but the base usage is just 37 eu/t. You can no longer use a World Accelerator and there is only the one machine, so no GT overclocking. Instead, there are new 'acceleration upgrades' that act similar to a World Accelerator but are directly integrated into the machine. You will want to use them, they increase the speed, productivity, and energy usage by a lot.%n%nBut I shouldn't drone on too long. Go make one and find out yourself.
+gtnh.quest2089.desc=If you need endgame high speed production, industrial apiaries are the way to go. Industrial Apiaries take upgrade frames that never break. Production frames can be stacked up to 8 high. It also has many options for emulation, more pollen retrieval, and others.%n%nThe Industrial Apiary is now a GT machine. It takes up to UV voltage and up to 4 amps but the base usage is just 37 eu/t. You can no longer use a World Accelerator and there is only the one machine, so no GT overclocking. Instead, there are new §oacceleration upgrades§r that act similar to a World Accelerator but are directly integrated into the machine. You will want to use them, they increase the speed and energy usage by a lot. The final tier also increases productivity.%n%nBut I shouldn't drone on too long. Go make one and find out yourself.
 
 # Quest.2090 - Fastest Way to Get There
 gtnh.quest2090.name=Fastest Way to Get There
@@ -8636,9 +8636,9 @@ gtnh.quest2157.desc=Unweary bees are key to a couple of breeding lines. Breed th
 gtnh.quest2158.name=Growing
 gtnh.quest2158.desc=Growing bees are the start of the Fruity specific breeding tree.  Breed them from Forest and Diligent.
 
-# Quest.2159 - Bees Template - change to OR when copying, back to AND to hide
-gtnh.quest2159.name=Bees Template - change to OR when copying, back to AND to hide
-gtnh.quest2159.desc=Get the princess bee and reward bag in NEI first. %nDo Advanced and set the icon to the bee.%nDo Task, and select the stone, and replace it with the princess.%nBefore closing, select the ... next to the bee name and press Raw NBT%nGo into Tag, Genome, Chromosomes. The first one is the name and must stay. %nGo inside there and delete the first entry, keep both of the species so players%nmust have purebreeds.%nDelete the rest of the chromosomes.%nDelete the rest of the entries for Genome.%nRemove the Infinity unlock requirement.
+# Quest.2159 - Bees Template
+gtnh.quest2159.name=Bees Template
+gtnh.quest2159.desc=Get the princess bee and reward bag in NEI first.%nCopy this quest.%nPress Icon and set the icon to the bee.%nChange the name, decription, and rewards.%n%nPress Task, and select the stone, and replace it with the princess.%nBefore closing, select the ... next to the bee name and press Raw NBT%nGo into Tag, Genome, Chromosomes. The first one is the name and must stay. %nGo inside there and delete the first entry, keep both of the species so players%nmust have purebreeds.%nDelete the rest of the chromosomes.%nDelete the rest of the entries for Genome.%n%nPress Requirements. Remove the Infinity unlock requirement and select the required bee quests. Use the common bees quest if nothing applies.%n%nChange Show:Hidden to Show:Normal.%n%n§3You can change the visibility of requirements by pressing the eye symbol in that menu.
 
 # Quest.2160 - Carpenter's Blocks
 gtnh.quest2160.name=Carpenter's Blocks
@@ -8818,11 +8818,11 @@ gtnh.quest2203.desc=Platinum. Precious metal for the ages. You'll need a block o
 
 # Quest.2204 - Uranium
 gtnh.quest2204.name=Uranium
-gtnh.quest2204.desc=All that hatred had a purpose - to create this bee, capable of producing enormous power. As before, keep away from everything.  This bee will require a block of Uranium. Breed them from Avenging and Platinum.
+gtnh.quest2204.desc=All that hatred had a purpose - to create this bee, capable of producing enormous power. As before, keep away from everything.  This bee will require a block of Uranium. Breed them from Avenging and Platinum.%n%n§3You can now make climate control units for modules in your industrial apiary!
 
 # Quest.2205 - Plutonium
 gtnh.quest2205.name=Plutonium
-gtnh.quest2205.desc=A metal that represents the epitome of technology. Never existing in the universe before man. Destroying everything around it. This bee will require a block of Plutonium. Breed them from Uranium and Emerald.
+gtnh.quest2205.desc=A metal that represents the epitome of technology. Never existing in the universe before man. Destroying everything around it. This bee will require a block of Plutonium. Breed them from Uranium and Emerald.%n%n§3Plutonium Combs are also used in a few crafting recipes!
 
 # Quest.2206 - Avenging
 gtnh.quest2206.name=Avenging
@@ -8942,7 +8942,7 @@ gtnh.quest2234.desc=Rejuvenating bees must be bred within 25m of a node.  They w
 
 # Quest.2235 - Empowering
 gtnh.quest2235.name=Empowering
-gtnh.quest2235.desc=The Empowering bee will randomly add aspects to nearby nodes, allowing enormous power to build up. The best chance to breed them is during the Full moon. Breed them from Rejuvenating and Vis.
+gtnh.quest2235.desc=The Empowering bee will randomly add aspects to nearby nodes, allowing enormous power to build up. The best chance to breed them is during the Full moon. Breed them from Rejuvenating and Vis.%n%n§3The maxiumum node size was capped for a few versions, but that cap is now removed.
 
 # Quest.2236 - Edenic
 gtnh.quest2236.name=Edenic
@@ -10288,8 +10288,8 @@ gtnh.quest2570.desc=This item has no special effects on its own but is required 
 gtnh.quest2571.name=Infinity Boots
 gtnh.quest2571.desc=Provides a permanent jump boost and increased running speed.
 
-# Quest.2572 - Building Block of the Stargate
-gtnh.quest2572.name=Building Block of the Stargate
+# Quest.2572 - The Door to Heaven?
+gtnh.quest2572.name=The Door to Heaven?
 gtnh.quest2572.desc=You'll need a lot of these to make a full stargate...
 
 # Quest.2573 - Stargate Ring Block
@@ -10328,9 +10328,9 @@ gtnh.quest2580.desc=Able to kill anything, in one hit except another player in f
 gtnh.quest2581.name=World Breaker
 gtnh.quest2581.desc=Infinity pickaxe, never breaks, able to break bedrock and capable of mining a 16x16x16 area instantly.
 
-# Quest.2582 - Infinity Blocks, Because Why Not?
-gtnh.quest2582.name=Infinity Blocks, Because Why Not?
-gtnh.quest2582.desc=I mean, if you really must...
+# Quest.2582 - Infinity Infrastructure
+gtnh.quest2582.name=Infinity Infrastructure
+gtnh.quest2582.desc=You will need a lot of infinity going forward. Be prepared for emotional trauma.
 
 # Quest.2583 - Galaxy in a Bottle...?
 gtnh.quest2583.name=Galaxy in a Bottle...?
@@ -10338,7 +10338,7 @@ gtnh.quest2583.desc=Good luck with this one, it is many many many times harder t
 
 # Quest.2584 - Hypogen
 gtnh.quest2584.name=Hypogen
-gtnh.quest2584.desc=I mean this doesn't really have any uses yet but if you must...%n%n§3Use the LPF to solidify it.
+gtnh.quest2584.desc=Use the large processing factory from GT++ to solidify it.
 
 # Quest.2585 - Infinite Vis Storage, kinda?
 gtnh.quest2585.name=Infinite Vis Storage, kinda?
@@ -10372,17 +10372,17 @@ gtnh.quest2591.desc=BTW, it doesn't actually hold more, you can just I/O faster.
 gtnh.quest2592.name=Papaya
 gtnh.quest2592.desc=The Papaya tree produces Papayas, which produce the most Fruice Juice. Sluuuurp!%n%n§aPapaya and Fruit Juice Get!
 
-# Quest.2593 - The Door to Heaven?
-gtnh.quest2593.name=The Door to Heaven?
-gtnh.quest2593.desc=Congratulations, you've beaten the most of the pack! If you show your certificate you may procede for one absolutely outrageous final challenge.
+# Quest.2593 - Welcome to Hell!
+gtnh.quest2593.name=Welcome to Hell!
+gtnh.quest2593.desc=Congratulations, you've beaten most of the pack! Here we have some absolutely outrageous final challenges for you. Maybe start by showing us your certificate.
 
 # Quest.2594 - You'll Probably Need Quite a Few of These
 gtnh.quest2594.name=You'll Probably Need Quite a Few of These
 gtnh.quest2594.desc=It may not actually store any energy but it'll still be useful for some other endgame items.
 
-# Quest.2595 - These Exist?
-gtnh.quest2595.name=These Exist?
-gtnh.quest2595.desc=Well yes technically, as of the current version these circuits are the highest in the game.
+# Quest.2595 - Misc Endgame Goals
+gtnh.quest2595.name=Misc Endgame Goals
+gtnh.quest2595.desc=These are various goals which are non-mandatory you can access at anytime.
 
 # Quest.2596 - Who Needs UV Solars When You Have Magic
 gtnh.quest2596.name=Who Needs UV Solars When You Have Magic
@@ -10484,8 +10484,8 @@ gtnh.quest2619.desc=You can figure out how to make them yourself, right?
 gtnh.quest2620.name=UV Superconductors (524,288 EU/t)
 gtnh.quest2620.desc=I wonder what temperature they start superconducting at?
 
-# Quest.2621 - UHV Superconductors at (2,097,152 EU/t)
-gtnh.quest2621.name=UHV Superconductors at (2,097,152 EU/t)
+# Quest.2621 - UHV Superconductors (2,097,152 EU/t)
+gtnh.quest2621.name=UHV Superconductors (2,097,152 EU/t)
 gtnh.quest2621.desc=Above this ther also are UEV, UIV, UMV, UXV, and MAX wires. UEV even has superconductors. You can use UHV superconductors, or use a super cheap material and accept some losses to move your power around. Aside from other options like sending it through an AE tunnel or making power on site again.%n%nWhat, the UHV superconductor? Didn't you already make that?%n%n§4If you forgot, you get a heat adjustment when using the EBF based on the energy tier. So you can smelt the Base UHV Ingot with Fluxed Coils and UV energy, since you then get 10501K. And no, you can't use a Volcanus.
 
 # Quest.2622 - ZPM Field Generator
@@ -12870,15 +12870,127 @@ gtnh.quest3216.desc=You can now make optical SMDs! They are required for all cir
 
 # Quest.3217 - §6§lInfinity Coil Upgrade
 gtnh.quest3217.name=§6§lInfinity Coil Upgrade
-gtnh.quest3217.desc=Provides 11701 heat. You should upgrade your EBF! You probably want to make a lot more for your MEBFs or your DTPF.
+gtnh.quest3217.desc=Smelting with the ferocity of the universe itself.%n%nProvides 11701 heat. You could upgrade your EBF. Though at this I guess its more likely for your MEBFs or your DTPF.
 
 # Quest.3218 - §6§lHypogen Coil Upgrade
 gtnh.quest3218.name=§6§lHypogen Coil Upgrade
-gtnh.quest3218.desc=12601K heat! The quest ask for 16 out of habit but really you want to upgrade your DTPF with these!
+gtnh.quest3218.desc=Finally a usage for this damned material. Provides 12601K heat!
 
 # Quest.3219 - §6§lEternal Coil Upgrade
 gtnh.quest3219.name=§6§lEternal Coil Upgrade
 gtnh.quest3219.desc=Currently the final upgrade with 13501K. This really makes your DTPF shine!
+
+# Quest.3220 - The roots of magic
+gtnh.quest3220.name=The roots of magic
+gtnh.quest3220.desc=If you're familiar with Botania, you will notice that the overworld is noticeably void of magical flowers. Such pretty expressions of magic sadly require you to have leveled up on your magical skills. For now you will have to make do with what the world has to offer.%n%nLook in deep caves at low Y-levels for glimmering mushrooms. These are your starting ingredient and can be used instead of flower petals. Beware, unlike flowers you can't grow more just yet, so be careful what you use them for.
+
+# Quest.3221 - Flower grafting
+gtnh.quest3221.name=Flower grafting
+gtnh.quest3221.desc=The first item you want to make is the Petal Apothecary. A mushroom is needed to anoint it and give it its restorative properties.%n%nTo operate it, fill it with a bucket of water to keep the plants hydrated. After that you can add the ingredients by dropping them on top.%n%nEach craft requires some magical ingredients, but also one or more regular flowers from the world that can function as a stable base. Once you've added all the ingredients, finish the craft by adding a seed. Any vanilla seed will do.
+
+# Quest.3222 - Pure Daisy
+gtnh.quest3222.name=Pure Daisy
+gtnh.quest3222.desc=The first magical flower you are able to make is the Pure Daisy. This flower can slowly enchant nearby stone and logs into basic Botania ingredients.%n%nAfter placing the flower down, you can use put down stone and wood in the 8 tiles around it, and after a certain time they will be converted.
+
+# Quest.3223 - Your first mana pool
+gtnh.quest3223.name=Your first mana pool
+gtnh.quest3223.desc=Now that you have livingrock, create your first mana pool. Chop some pieces into slabs with a saw, to make the bottom and the 4 sides, then stick them together.%n%nYou lack the knowledge to make it effective, so sadly it won't be able to craft a lot as a result.
+
+# Quest.3224 - Upgrading your mana pool
+gtnh.quest3224.name=Upgrading your mana pool
+gtnh.quest3224.desc=Now that you have discovered the power of the magically enchanted crucible, you can use that technology to make a better mana pool.
+
+# Quest.3225 - Pollination buddies
+gtnh.quest3225.name=Pollination buddies
+gtnh.quest3225.desc=Some flowers are everywhere, and some are limited to specific biomes. If you don't want to walk long distances from home, you can call in some help.%n%nBees with the flower trait will slowly generate new flowers in its working are, including plenty that have been brought in from distant pastures.
+
+# Quest.3226 - Mana diamonds
+gtnh.quest3226.name=Mana diamonds
+gtnh.quest3226.desc=Mana diamonds are magically enhanced diamonds, and they require more or less energy depending on the quality of the gem you're trying to enchant.%n%nA completely full diluted pool is barely able to make a mana diamond out of an exquisite diamond. Once you upgrade the pool you can use regular diamonds - be it at a higher mana cost.
+
+# Quest.3227 - A glimpse into a watery future
+gtnh.quest3227.name=A glimpse into a watery future
+gtnh.quest3227.desc=The next step is to make some catalysts. The Alchemical catalyst can use mana to change one item or block into a related item or block.%n%nPut it under a filled mana pool, then try it out by making some prismarine.%n%nThe recipe will need to be researched in the Thaumonomicon.
+
+# Quest.3228 - Botanic infusion
+gtnh.quest3228.name=Botanic infusion
+gtnh.quest3228.desc=The infusion altar will allow you to make runes, which in turn gives you access to progressively more advanced flowers.%n%nTo operate the altar, drop the ingredients on top, whack it with a wand of the forest, and when it's done drop a livingrock block on top to complete the craft. You will additionally need a mana source, such as a mana spreader pointing at it.
+
+# Quest.3229 - Terrasteel
+gtnh.quest3229.name=Terrasteel
+gtnh.quest3229.desc=To get some advanced tools and equipment you will need some terrasteel. This is done using a dedicated machine.
+
+# Quest.3230 - Alfheim
+gtnh.quest3230.name=Alfheim
+gtnh.quest3230.desc=Legends speak of a portal to a different realm filled with green energy.
+
+# Quest.3231 - Round one... FIGHT!
+gtnh.quest3231.name=Round one... FIGHT!
+gtnh.quest3231.desc=Put the 4 pylons down and shift right click the terrasteel ingot on the beacon to summon the Gaia Guardian.
+
+# Quest.3232 - Stonks
+gtnh.quest3232.name=Stonks
+gtnh.quest3232.desc=So the rumours about the elves were true. Well, *were* true. They're still mostly true. and what isn't true used to be true.%n%nTurns out they have since been talking to a person going by the name of Olafe, which has since sparked a industrial revolution in the Elven lands. That sadly means that they now insist on receiving the latest fashion in machinery to fuel their ever-expanding factories, in exchange for the elven materials that are now rapidly going out of fashion.%n%nSomeone needs to have a word with this guy...
+
+# Quest.3233 - You are worthy
+gtnh.quest3233.name=You are worthy
+gtnh.quest3233.desc=Go no further if you value your sanity.
+
+# Quest.3234 - DTPF
+gtnh.quest3234.name=DTPF
+gtnh.quest3234.desc=Congratulations, you have reached the Dimensionally Transcendent Plasma Forge, one of the most lategame multiblocks in the pack. This monster will make a MEBF look like a toaster by comparison to the raw smelting power available here.%n%nThis multiblock has numerous powerful recipes at its disposal, including the ability to cook 4,096 neutronium in parallel for a reduced EU cost and the conversion of infinity catalyst directly into infinity at a 1:1 ratio. This comes at a great cost and will likely be a harsh test on your infrastructure.
+
+# Quest.3235 - Power in the Ether
+gtnh.quest3235.name=Power in the Ether
+gtnh.quest3235.desc=These new hatches allow you to wirelessly send, store and receive energy from any location in any dimension. They can be placed in any existing multi block structure and will function as normal energy/dynamo hatches. A dynamo hatch will consume EU and store it in a global network linked to your user. The wireless network can store a total of 2^(2^31) EU, far exceeding even a max tier LSC.%n%nYou can share a wireless network with others by adding them to your network with /gt global_energy_join user1 user2. This will make user1 use user2's energy when interacting with the global network. You can leave a network at any time by doing /gt global_energy_join your_name your_name. %n%nYou cannot connect wires to these blocks. These are also designed to be highly lag efficient, meaning EU is added at large intervals to prevent needless calculations from occurring. This will also save you some TPS lag from vast wire networks.%n%n§3If your calculator is giving up, 2^(2^31) is a number with 646,456,994 digits.
+
+# Quest.3236 - Nano Circuits
+gtnh.quest3236.name=Nano Circuits
+gtnh.quest3236.desc=Circuits required for UIV.
+
+# Quest.3237 - Nearly there...
+gtnh.quest3237.name=Nearly there...
+gtnh.quest3237.desc=So close.
+
+# Quest.3238 - Space
+gtnh.quest3238.name=Space
+gtnh.quest3238.desc=Breed an industrious with a heroic bee to obtain a space bee. You need the temperature to be icy for that. It is key to breed many space related bees.
+
+# Quest.3239 - Tesseract
+gtnh.quest3239.name=Tesseract
+gtnh.quest3239.desc=Engineering beyond your comprehension.
+
+# Quest.3240 - SpaceTime
+gtnh.quest3240.name=SpaceTime
+gtnh.quest3240.desc=Reality itself bends to your will.
+
+# Quest.3241 - Round two... FIGHT!
+gtnh.quest3241.name=Round two... FIGHT!
+gtnh.quest3241.desc=Now craft a Gaia Sprit ingot with ur new Gaia Sprit from killing the Gaia guardian.%n%nPut the 4 pylons down and shift right click the Gaia Sprit ingot on the beacon to summon a harder version of Gaia Guardian.n
+
+# Quest.3242 - UMV Circuits
+gtnh.quest3242.name=UMV Circuits
+gtnh.quest3242.desc=Circuits required for UMV tier.
+
+# Quest.3243 - Finally, you are here.
+gtnh.quest3243.name=Finally, you are here.
+gtnh.quest3243.desc=Well done, you have reached the highest craftable parts in the game.
+
+# Quest.3244 - UXV Circuits
+gtnh.quest3244.name=UXV Circuits
+gtnh.quest3244.desc=Circuits required for UXV.
+
+# Quest.3245 - Naquadah Fuel
+gtnh.quest3245.name=Naquadah Fuel
+gtnh.quest3245.desc=Endgame power source.
+
+# Quest.3246 - Runes
+gtnh.quest3246.name=Runes
+gtnh.quest3246.desc=Craft some runes, Because why not?
+
+# Quest.3247 - Tool: Never complete
+gtnh.quest3247.name=Tool: Never complete
+gtnh.quest3247.desc=This quest should never be complete which is useful to hide templates and other things.
 
 ##################################Line##################################
 
@@ -12894,28 +13006,28 @@ gtnh.line1.desc=This tab continues the basics until you make your first steam ma
 gtnh.line2.name=Tier 0.5 - Steam
 gtnh.line2.desc=Steam to electricity (EU) is the progression of this tab. Most of the machines you make in this tier you'll use the whole game, if in an upgraded form.
 
-# QuestLine.3 - Tier 1 - 32 EU (LV)
-gtnh.line3.name=Tier 1 - 32 EU (LV)
+# QuestLine.3 - Tier 1 - LV
+gtnh.line3.name=Tier 1 - LV
 gtnh.line3.desc=The first "voltage" tier of this pack. Things should be a little easier with some of the machines you can now make, and almost every type of machine is now available, try not to be overwhelmed. You can get away with using LV machines for automating processing of things like polyethylene or electrolyzing water the whole game, so consider setting that up when you need it.
 
-# QuestLine.4 - Tier 2 - 128 EU (MV)
-gtnh.line4.name=Tier 2 - 128 EU (MV)
+# QuestLine.4 - Tier 2 - MV
+gtnh.line4.name=Tier 2 - MV
 gtnh.line4.desc=Your second voltage tier. Don't mix different voltage levels, or you'll have a fancy new crater. Start thinking about how to expand your base. %n%nBTW, for OCing purposes, this counts as tier 2, ULV doesn't count.
 
-# QuestLine.5 - Tier 3 - 512 EU (HV)
-gtnh.line5.name=Tier 3 - 512 EU (HV)
+# QuestLine.5 - Tier 3 - HV
+gtnh.line5.name=Tier 3 - HV
 gtnh.line5.desc=Finally some real power to work with. This tier is all about getting to the moon to gather more rare resources to build even more advanced machines.
 
-# QuestLine.6 - Tier 4 - 2048 EU (EV)
-gtnh.line6.name=Tier 4 - 2048 EU (EV)
+# QuestLine.6 - Tier 4 - EV
+gtnh.line6.name=Tier 4 - EV
 gtnh.line6.desc=Welcome to EV! You have successfully gone to the moon and processed Titanium. You are now getting extreme levels of energy. In this tier you will unlock Nuclear energy, and Applied Energistics 2.
 
-# QuestLine.7 - Tier 5 - 8192 EU (IV)
-gtnh.line7.name=Tier 5 - 8192 EU (IV)
+# QuestLine.7 - Tier 5 - IV
+gtnh.line7.name=Tier 5 - IV
 gtnh.line7.desc=This tier is all about the platline, and making the assembly line. They're both super hard , but necessary. This is probably where most people drop out. Good luck!
 
-# QuestLine.8 - Tier 6 - 32768 EU (LuV)
-gtnh.line8.name=Tier 6 - 32768 EU (LuV)
+# QuestLine.8 - Tier 6 - LuV
+gtnh.line8.name=Tier 6 - LuV
 gtnh.line8.desc=If you have made it this far, you should walk with your head held high - you are at the start of the lategame. Endgame is still a long road ahead of you, but you are now an expert at GTNH and most of the mods it comes with. Congrats, and be proud of yourself.%n%nOnce you're done being proud, start making CALs for better circuits, and work towards making endgame power with the Fusion Reactor, you'll need it.
 
 # QuestLine.9 - How to Generate Power
@@ -12966,8 +13078,8 @@ gtnh.line19.desc=Breeding Bees for Better Bling (experimental, may cause honey l
 gtnh.line20.name=How to Be(e)
 gtnh.line20.desc=A non-tiered quest set that is meant as an in game, quest based tutorial and guide to bees. Since they are a really helpful tool to advance forward.
 
-# QuestLine.21 - Flower Power
-gtnh.line21.name=Flower Power
+# QuestLine.21 - Bio for the Masses
+gtnh.line21.name=Bio for the Masses
 gtnh.line21.desc=Questline about powergen that comes from plants and trees.
 
 # QuestLine.22 - Novice Thaumaturgy
@@ -13002,13 +13114,17 @@ gtnh.line28.desc=When regular magic just won't cover it, pay demons to do it for
 gtnh.line29.name=Endgame Goals
 gtnh.line29.desc=Collection of endgame objectives, good luck and thanks for playing so far.
 
-# QuestLine.30 - Tier 7 - 131072 EU (ZPM)
-gtnh.line30.name=Tier 7 - 131072 EU (ZPM)
+# QuestLine.30 - Tier 7 - ZPM
+gtnh.line30.name=Tier 7 - ZPM
 gtnh.line30.desc=Congratulations, you've completed the platline, assline, CAL, §oand§r fusion reactor and made it to the Zero Point Module tier. You're well into the late game now, but there's still a lot of stuff to do. Good luck!
 
 # QuestLine.31 - Advanced Automation
 gtnh.line31.name=Advanced Automation
 gtnh.line31.desc=SFM and OC have your back for assline automation! And automating other stuff too complex for AE2, like infusion or blood altars. You can do a lot of cool stuff with OC, feel free to give it a try.
+
+# QuestLine.32 - Flower Power
+gtnh.line32.name=Flower Power
+gtnh.line32.desc=A treatise on magical herbology and Botania
 
 # QuestLine.34 - Space Race
 gtnh.line34.name=Space Race
@@ -13022,10 +13138,6 @@ gtnh.line35.desc=AE2 focuses on creating a compact, easily accessible, considera
 gtnh.line37.name=Kill All the Things
 gtnh.line37.desc=This world is full of nasty things. Time to kill some and improve your reputation.
 
-# QuestLine.40 - Legendary Quests
-gtnh.line40.name=Legendary Quests
-gtnh.line40.desc=A legendary quest-line with difficult tasks, expensive recipes and potentially dangerous locations. Are you prepared?%n%nMay be related to Dragons?
-
 # QuestLine.42 - Reward Area
 gtnh.line42.name=Reward Area
 gtnh.line42.desc=Upgrade your loot bags!
@@ -13038,11 +13150,11 @@ gtnh.line43.desc=Treasure of lands far beyond the vast sea of the Void and very 
 gtnh.line44.name=Tips and Tricks
 gtnh.line44.desc=All our collected wisdom, in one convenient place. Many Greggers died to bring you this knowledge.
 
-# QuestLine.45 - Tier 8 - 524288 EU (UV)
-gtnh.line45.name=Tier 8 - 524288 EU (UV)
+# QuestLine.45 - Tier 8 - UV
+gtnh.line45.name=Tier 8 - UV
 gtnh.line45.desc=Ultimate Voltage! This is the final tier in normal GregTech, but here in GregTech: New Horizons, we pierce the heavens to go beyond the limit! You have done something that only a few players are capable of doing. Welcome to the Endgame!
 
-# QuestLine.46 - Tier 9 - 2097152 EU (UHV)
-gtnh.line46.name=Tier 9 - 2097152 EU (UHV)
+# QuestLine.46 - Tier 9 - UHV
+gtnh.line46.name=Tier 9 - UHV
 gtnh.line46.desc=Uhh... hi? You really aren't supposed to be here, you know? We're still, you know, making this tier, right?
 
