@@ -16,6 +16,9 @@ import mods.gregtech.Wiremill;
 import minetweaker.item.IItemStack;
 import minetweaker.item.IIngredient;
 
+// --- I18N ---
+val I18N_AE2_0 = "Universal Storage Housing";
+
 // --- Variables ---
 
 
@@ -125,8 +128,6 @@ val RubberPlate = <ore:plateAnyRubber>;
 val CertusPlate = <gregtech:gt.metaitem.01:17516>;
 val NQuartzPlate = <gregtech:gt.metaitem.01:17522>;
 val QuartzitePlate = <gregtech:gt.metaitem.01:17523>;
-val SiliconPlate = <gregtech:gt.metaitem.01:17020>;
-val SiliconRod = <ore:stickSilicon>;
 val CertusRod = <ore:stickCertusQuartz>;
 val NQuartzRod = <ore:stickNetherQuartz>;
 val QuartziteScrew = <ore:screwQuartzite>;
@@ -1542,4 +1543,4 @@ Wiremill.addRecipe(<appliedenergistics2:item.ItemMultiPart:140>, <gregtech:gt.me
 
 // --- Renaming Stuff ---
 
-NEI.overrideName(UStorageHousing, "Universal Storage Housing");
+NEI.overrideName(UStorageHousing, I18N_AE2_0);
