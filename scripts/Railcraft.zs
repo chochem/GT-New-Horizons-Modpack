@@ -20,6 +20,7 @@ import mods.gregtech.Wiremill;
 
 
 // --- I18N ---
+val _I18N_Lang = "en_US";
 val I18N_Railcraft_0 = "Lapatron Loader Upgrade";
 val I18N_Railcraft_1 = "Lead Plate";
 
@@ -596,6 +597,9 @@ recipes.remove(<Railcraft:machine.gamma:10>);
 
 // --- Redstone Flux Unloader
 recipes.remove(<Railcraft:machine.gamma:11>);
+
+// --- Blood Stained Block
+recipes.remove(<Railcraft:brick.bloodstained:2>);
 
 
 

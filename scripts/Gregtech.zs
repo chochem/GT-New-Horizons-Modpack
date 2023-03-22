@@ -29,6 +29,7 @@ import mods.nei.NEI;
 
 
 // --- I18N ---
+val _I18N_Lang = "en_US";
 val I18N_Gregtech_0 = "Work Area 16 Blocks Radius = 4 Chunks";
 val I18N_Gregtech_1 = "Work Area 32 Blocks Radius = 16 Chunks";
 val I18N_Gregtech_2 = "Work Area 48 Blocks Radius = 36 Chunks";
@@ -381,7 +382,7 @@ recipes.remove(<gregtech:gt.blockmachines:1145>);
 
 // --- Teleporter
 recipes.addShaped(<gregtech:gt.blockmachines:1145>,[
-[<dreamcraft:item.NanoCircuit>,<SGCraft:ic2PowerUnit>,<dreamcraft:item.NanoCircuit>],
+[<ore:circuitOptical>,<SGCraft:ic2PowerUnit>,<ore:circuitOptical>],
 [<SGCraft:ic2Capacitor>,<SGCraft:stargateBase>,<SGCraft:ic2Capacitor>],
 [<SGCraft:ic2Capacitor>,<SGCraft:ocInterface>,<SGCraft:ic2Capacitor>]]);
 
@@ -435,6 +436,7 @@ recipes.addShapeless(<minecraft:sugar> * 4, [<ore:craftingToolMortar>, <berriesp
 // --- Cooked Mince Meat
 recipes.addShapeless(<gregtech:gt.metaitem.01:2893>, [<ore:craftingToolMortar>, <ore:listAllmeatcooked>]);
 recipes.addShapeless(<gregtech:gt.metaitem.01:2893>, [<ore:craftingToolMortar>, <ore:listAllfishcooked>]);
+furnace.addRecipe(<gregtech:gt.metaitem.01:2893>, <gregtech:gt.metaitem.01:2892>);
 
 // --- Wood Pulp
 recipes.addShapeless(<gregtech:gt.metaitem.01:2809> * 2, [<ore:craftingToolMortar>, <ore:logWood>]);
